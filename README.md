@@ -7,6 +7,7 @@ This project investigates the impact of urban road network topologies on traffic
 
 By leveraging the Simulation of Urban MObility (SUMO) framework, this research visualizes spatial vehicle density and bottleneck formations through high-resolution heatmaps. The primary objective is to quantify the structural vulnerabilities and resilience of different urban layouts in response to emerging micro-transit behaviors.
 <img width="1200" height="1000" alt="heatmap_with_tram_bus" src="https://github.com/user-attachments/assets/9a79eb65-49ca-4c7a-870d-80661ed010c1" />
+<img width="2000" height="800" alt="before" src="https://github.com/user-attachments/assets/32210af1-bdea-4109-8058-d4d7e5a3c3ae" />
 
 ## 2. Methodology & Key Features
 - **Base Scenario Modeling:** Utilizes the [TUMFTM/munich-sumo-scenario](https://github.com/TUMFTM/munich-sumo-scenario) as the foundational microscopic traffic simulation environment.
