@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-10-23 23:22:23.567434 by Eclipse SUMO gtfs2pt.py v1_27_0+0000-e238ea04b71
+<configuration>
+    <gtfs value="gtfs\munich_gtfs.zip"/>
+    <date value="20261111"/>
+    <modes value="tram,bus"/>
+    <network value="network\munich.net.xml"/>
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <vType id="bus" vClass="bus"/>
+    <vType id="tram" vClass="tram"/>
+</additional>
