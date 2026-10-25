@@ -27,7 +27,7 @@ Evaluates the centralization of traffic flow and the exacerbation of bottleneck 
 ## 4. Project Progress
 - [x] Establish and validate the baseline microscopic traffic scenario (TUMFTM Munich).
 - [x] Develop a Python-based pipeline for spatial heatmap visualization utilizing SUMO Floating Car Data (FCD).
-- [ ] Synthesize Robotaxi demand distributions and routing models derived from empirical GTFS transit data.
+- [x] Synthesize Robotaxi demand distributions and routing models derived from empirical GTFS transit data.
 - [ ] Execute comparative PUDO simulations across the Maxvorstadt and Old City topologies.
 - [ ] Conduct quantitative comparative analysis and update spatial visualizations.
 
